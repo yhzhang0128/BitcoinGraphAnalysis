@@ -1,4 +1,4 @@
-# BitcoinGraphAnalysis
+# Bitcoin Graph Analysis
 
 ## Introduction
 
