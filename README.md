@@ -23,7 +23,8 @@ There should be a binary file *stat1*. Sample usage:
 
 If you wish to run analysis on all datasets, type
 ```shell
-./run_exps.py
+# note that not python2
+python3 run_exps.py
 ```
 
 The result will be printed to stdout and also to file *result.log*
