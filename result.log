@@ -1,0 +1,2790 @@
+@data 1:1
+@time 23.09
+## Statistic1: Basics
+Graph Size: 897948 vertexes, 4315930 edges
+### out degree:
+50% degree:	1
+90% degree:	4
+95% degree:	11
+99% degree:	94
+99.9% degree:	308
+100% degree:	22307
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	12
+99% degree:	101
+99.9% degree:	292
+100% degree:	20253
+@time for init: 3.33089
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 282086711
+Motif2 count: 110935778
+Motif3 count: 27584587
+@time for motif counting: 19.6004
+
+
+
+
+
+
+@data 1:2
+@time 48.06
+## Statistic1: Basics
+Graph Size: 980094 vertexes, 4687185 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	12
+99% degree:	84
+99.9% degree:	339
+100% degree:	19327
+### in degree:
+50% degree:	1
+90% degree:	6
+95% degree:	14
+99% degree:	101
+99.9% degree:	249
+100% degree:	21748
+@time for init: 3.58068
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 1035745536
+Motif2 count: 1836469136
+Motif3 count: 69685944
+@time for motif counting: 44.3625
+
+
+
+
+
+
+@data 1:3
+@time 20.66
+## Statistic1: Basics
+Graph Size: 849480 vertexes, 3999491 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	11
+99% degree:	80
+99.9% degree:	378
+100% degree:	27966
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	12
+99% degree:	101
+99.9% degree:	246
+100% degree:	21910
+@time for init: 3.06772
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 25078614
+Motif2 count: 93110995
+Motif3 count: 17814697
+@time for motif counting: 17.4926
+
+
+
+
+
+
+@data 1:4
+@time 19.50
+## Statistic1: Basics
+Graph Size: 908883 vertexes, 3834624 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	9
+99% degree:	74
+99.9% degree:	408
+100% degree:	21542
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	11
+99% degree:	101
+99.9% degree:	250
+100% degree:	25979
+@time for init: 3.03626
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 291949946
+Motif2 count: 429327130
+Motif3 count: 16068852
+@time for motif counting: 16.3662
+
+
+
+
+
+
+@data 1:5
+@time 28.97
+## Statistic1: Basics
+Graph Size: 989844 vertexes, 4811933 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	12
+99% degree:	95
+99.9% degree:	281
+100% degree:	20176
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	14
+99% degree:	101
+99.9% degree:	205
+100% degree:	23057
+@time for init: 3.74288
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 745832616
+Motif2 count: 316746409
+Motif3 count: 27600643
+@time for motif counting: 25.1165
+
+
+
+
+
+
+@data 1:6
+@time 155.11
+## Statistic1: Basics
+Graph Size: 979898 vertexes, 5290869 edges
+### out degree:
+50% degree:	2
+90% degree:	3
+95% degree:	12
+99% degree:	122
+99.9% degree:	302
+100% degree:	21299
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	15
+99% degree:	101
+99.9% degree:	226
+100% degree:	23634
+@time for init: 3.90277
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 781977287
+Motif2 count: 106927604
+Motif3 count: 36632823
+@time for motif counting: 151.091
+
+
+
+
+
+
+@data 1:7
+@time 46.69
+## Statistic1: Basics
+Graph Size: 870864 vertexes, 4423242 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	16
+99% degree:	101
+99.9% degree:	321
+100% degree:	19230
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	14
+99% degree:	101
+99.9% degree:	235
+100% degree:	25461
+@time for init: 3.26836
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 22392041
+Motif2 count: 154942409
+Motif3 count: 36166120
+@time for motif counting: 43.3186
+
+
+
+
+
+
+@data 1:8
+@time 33.26
+## Statistic1: Basics
+Graph Size: 956690 vertexes, 4865146 edges
+### out degree:
+50% degree:	2
+90% degree:	3
+95% degree:	13
+99% degree:	101
+99.9% degree:	350
+100% degree:	14895
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	13
+99% degree:	101
+99.9% degree:	306
+100% degree:	24716
+@time for init: 3.66012
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 808645948
+Motif2 count: 976261580
+Motif3 count: 37795571
+@time for motif counting: 29.4952
+
+
+
+
+
+
+@data 1:9
+@time 29.38
+## Statistic1: Basics
+Graph Size: 907118 vertexes, 4535352 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	16
+99% degree:	92
+99.9% degree:	337
+100% degree:	15901
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	14
+99% degree:	101
+99.9% degree:	229
+100% degree:	25691
+@time for init: 3.42402
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 340433
+Motif2 count: 259869
+Motif3 count: 84888820
+@time for motif counting: 25.8487
+
+
+
+
+
+
+@data 1:10
+@time 30.28
+## Statistic1: Basics
+Graph Size: 931650 vertexes, 4381073 edges
+### out degree:
+50% degree:	2
+90% degree:	3
+95% degree:	11
+99% degree:	88
+99.9% degree:	350
+100% degree:	16001
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	11
+99% degree:	101
+99.9% degree:	214
+100% degree:	25095
+@time for init: 3.36734
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 741279552
+Motif2 count: 1201734765
+Motif3 count: 26510827
+@time for motif counting: 26.8011
+
+
+
+
+
+
+@data 1:11
+@time 32.27
+## Statistic1: Basics
+Graph Size: 936204 vertexes, 5023627 edges
+### out degree:
+50% degree:	2
+90% degree:	3
+95% degree:	12
+99% degree:	125
+99.9% degree:	306
+100% degree:	22093
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	14
+99% degree:	101
+99.9% degree:	303
+100% degree:	27455
+@time for init: 3.65053
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 97654173
+Motif2 count: 811583145
+Motif3 count: 30953448
+@time for motif counting: 28.5153
+
+
+
+
+
+
+@data 1:12
+@time 36.09
+## Statistic1: Basics
+Graph Size: 1057281 vertexes, 5780635 edges
+### out degree:
+50% degree:	2
+90% degree:	3
+95% degree:	12
+99% degree:	129
+99.9% degree:	319
+100% degree:	21012
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	17
+99% degree:	102
+99.9% degree:	238
+100% degree:	23668
+@time for init: 3.99585
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 181721
+Motif2 count: 95546
+Motif3 count: 86639969
+@time for motif counting: 31.9844
+
+
+
+
+
+
+@data 1:13
+@time 41.73
+## Statistic1: Basics
+Graph Size: 1025704 vertexes, 5468252 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	12
+99% degree:	132
+99.9% degree:	302
+100% degree:	24537
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	15
+99% degree:	105
+99.9% degree:	214
+100% degree:	24388
+@time for init: 3.89041
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 240598
+Motif2 count: 145128
+Motif3 count: 63062904
+@time for motif counting: 37.7261
+
+
+
+
+
+
+@data 1:14
+@time 64.76
+## Statistic1: Basics
+Graph Size: 1131576 vertexes, 6689858 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	14
+99% degree:	151
+99.9% degree:	406
+100% degree:	39478
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	21
+99% degree:	111
+99.9% degree:	238
+100% degree:	25621
+@time for init: 4.68806
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 603607
+Motif2 count: 383215
+Motif3 count: 54288947
+@time for motif counting: 59.9409
+
+
+
+
+
+
+@data 1:15
+@time 33.15
+## Statistic1: Basics
+Graph Size: 1084849 vertexes, 5456856 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	12
+99% degree:	99
+99.9% degree:	361
+100% degree:	33214
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	13
+99% degree:	107
+99.9% degree:	248
+100% degree:	25588
+@time for init: 4.17552
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 946282
+Motif2 count: 520761
+Motif3 count: 42901665
+@time for motif counting: 28.8623
+
+
+
+
+
+
+@data 1:16
+@time 179.73
+## Statistic1: Basics
+Graph Size: 1116228 vertexes, 5636609 edges
+### out degree:
+50% degree:	1
+90% degree:	4
+95% degree:	13
+99% degree:	92
+99.9% degree:	437
+100% degree:	27915
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	13
+99% degree:	104
+99.9% degree:	436
+100% degree:	27915
+@time for init: 4.49901
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 18165330490
+Motif2 count: 15904077771
+Motif3 count: 76936458
+@time for motif counting: 174.799
+
+
+
+
+
+
+@data 1:17
+@time 22.78
+## Statistic1: Basics
+Graph Size: 942676 vertexes, 4359125 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	12
+99% degree:	84
+99.9% degree:	301
+100% degree:	19320
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	12
+99% degree:	102
+99.9% degree:	209
+100% degree:	25443
+@time for init: 3.33985
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 40079937
+Motif2 count: 517031585
+Motif3 count: 22179679
+@time for motif counting: 19.331
+
+
+
+
+
+
+@data 1:18
+@time 24.95
+## Statistic1: Basics
+Graph Size: 1016496 vertexes, 5063577 edges
+### out degree:
+50% degree:	1
+90% degree:	4
+95% degree:	12
+99% degree:	106
+99.9% degree:	292
+100% degree:	27998
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	12
+99% degree:	104
+99.9% degree:	229
+100% degree:	23733
+@time for init: 3.90213
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 754702300
+Motif2 count: 133054747
+Motif3 count: 27946392
+@time for motif counting: 20.9328
+
+
+
+
+
+
+@data 1:19
+@time 52.85
+## Statistic1: Basics
+Graph Size: 1145154 vertexes, 5631850 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	10
+99% degree:	121
+99.9% degree:	284
+100% degree:	25096
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	12
+99% degree:	106
+99.9% degree:	222
+100% degree:	24095
+@time for init: 4.24892
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 2056173203
+Motif2 count: 1162500575
+Motif3 count: 57536372
+@time for motif counting: 48.4803
+
+
+
+
+
+
+@data 1:20
+@time 48.31
+## Statistic1: Basics
+Graph Size: 1145878 vertexes, 5984856 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	12
+99% degree:	134
+99.9% degree:	302
+100% degree:	31920
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	13
+99% degree:	110
+99.9% degree:	280
+100% degree:	24158
+@time for init: 4.30909
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 773420979
+Motif2 count: 1697337928
+Motif3 count: 61646071
+@time for motif counting: 43.8686
+
+
+
+
+
+
+@data 1:21
+@time 74.62
+## Statistic1: Basics
+Graph Size: 1230798 vertexes, 7857120 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	17
+99% degree:	151
+99.9% degree:	408
+100% degree:	46333
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	18
+99% degree:	132
+99.9% degree:	338
+100% degree:	26722
+@time for init: 5.39581
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 1822159122
+Motif2 count: 1530081863
+Motif3 count: 78179506
+@time for motif counting: 69.0749
+
+
+
+
+
+
+@data 1:22
+@time 65.79
+## Statistic1: Basics
+Graph Size: 1068945 vertexes, 9629733 edges
+### out degree:
+50% degree:	1
+90% degree:	4
+95% degree:	29
+99% degree:	251
+99.9% degree:	438
+100% degree:	55127
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	15
+99% degree:	229
+99.9% degree:	466
+100% degree:	45006
+@time for init: 5.90345
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 143860
+Motif2 count: 82830
+Motif3 count: 39788760
+@time for motif counting: 59.7774
+
+
+
+
+
+
+@data 1:23
+@time 250.84
+## Statistic1: Basics
+Graph Size: 1124997 vertexes, 8193524 edges
+### out degree:
+50% degree:	1
+90% degree:	6
+95% degree:	26
+99% degree:	146
+99.9% degree:	388
+100% degree:	29007
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	12
+99% degree:	203
+99.9% degree:	407
+100% degree:	45383
+@time for init: 5.26834
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 80461
+Motif2 count: 30669
+Motif3 count: 44879329
+@time for motif counting: 245.198
+
+
+
+
+
+
+@data 1:24
+@time 236.35
+## Statistic1: Basics
+Graph Size: 1187722 vertexes, 7497631 edges
+### out degree:
+50% degree:	1
+90% degree:	6
+95% degree:	27
+99% degree:	112
+99.9% degree:	408
+100% degree:	29694
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	10
+99% degree:	201
+99.9% degree:	403
+100% degree:	50471
+@time for init: 5.43636
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 22104122219
+Motif2 count: 9031573887
+Motif3 count: 50403629
+@time for motif counting: 230.774
+
+
+
+
+
+
+@data 1:25
+@time 61.77
+## Statistic1: Basics
+Graph Size: 1077241 vertexes, 5304645 edges
+### out degree:
+50% degree:	1
+90% degree:	4
+95% degree:	21
+99% degree:	94
+99.9% degree:	220
+100% degree:	23412
+### in degree:
+50% degree:	1
+90% degree:	3
+95% degree:	7
+99% degree:	201
+99.9% degree:	245
+100% degree:	92801
+@time for init: 3.98718
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 3211470737
+Motif2 count: 839831824
+Motif3 count: 32989812
+@time for motif counting: 57.6531
+
+
+
+
+
+
+@data 1:26
+@time 121.40
+## Statistic1: Basics
+Graph Size: 1153402 vertexes, 6507962 edges
+### out degree:
+50% degree:	1
+90% degree:	4
+95% degree:	21
+99% degree:	125
+99.9% degree:	392
+100% degree:	22769
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	11
+99% degree:	153
+99.9% degree:	298
+100% degree:	98302
+@time for init: 4.69864
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 12624311457
+Motif2 count: 4282440434
+Motif3 count: 61127232
+@time for motif counting: 116.566
+
+
+
+
+
+
+@data 1:27
+@time 125.40
+## Statistic1: Basics
+Graph Size: 1096904 vertexes, 6584472 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	19
+99% degree:	150
+99.9% degree:	391
+100% degree:	27307
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	11
+99% degree:	155
+99.9% degree:	317
+100% degree:	59217
+@time for init: 4.48973
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 1890781304
+Motif2 count: 4592864162
+Motif3 count: 83659089
+@time for motif counting: 120.79
+
+
+
+
+
+
+@data 1:28
+@time 385.72
+## Statistic1: Basics
+Graph Size: 1261322 vertexes, 7869484 edges
+### out degree:
+50% degree:	1
+90% degree:	4
+95% degree:	17
+99% degree:	147
+99.9% degree:	393
+100% degree:	32597
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	12
+99% degree:	162
+99.9% degree:	358
+100% degree:	83401
+@time for init: 5.38403
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 17596993894
+Motif2 count: 12850320607
+Motif3 count: 93156186
+@time for motif counting: 380.192
+
+
+
+
+
+
+@data 1:29
+@time 156.57
+## Statistic1: Basics
+Graph Size: 1283914 vertexes, 9054951 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	25
+99% degree:	149
+99.9% degree:	408
+100% degree:	45423
+### in degree:
+50% degree:	1
+90% degree:	3
+95% degree:	10
+99% degree:	205
+99.9% degree:	411
+100% degree:	54017
+@time for init: 6.11085
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 545469361
+Motif2 count: 655326215
+Motif3 count: 77742878
+@time for motif counting: 150.307
+
+
+
+
+
+
+@data 1:30
+@time 124.39
+## Statistic1: Basics
+Graph Size: 1179664 vertexes, 7602984 edges
+### out degree:
+50% degree:	1
+90% degree:	4
+95% degree:	25
+99% degree:	134
+99.9% degree:	308
+100% degree:	24602
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	11
+99% degree:	202
+99.9% degree:	402
+100% degree:	47659
+@time for init: 5.12849
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 5646768790
+Motif2 count: 2921472783
+Motif3 count: 131064828
+@time for motif counting: 119.135
+
+
+
+
+
+
+@data 2:1
+@time 479.56
+## Statistic1: Basics
+Graph Size: 1068518 vertexes, 10622142 edges
+### out degree:
+50% degree:	1
+90% degree:	4
+95% degree:	34
+99% degree:	244
+99.9% degree:	491
+100% degree:	142055
+### in degree:
+50% degree:	1
+90% degree:	7
+95% degree:	21
+99% degree:	209
+99.9% degree:	421
+100% degree:	49044
+@time for init: 6.42555
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 622039
+Motif2 count: 121903
+Motif3 count: 94631914
+@time for motif counting: 473.004
+
+
+
+
+
+
+@data 2:2
+@time 973.93
+## Statistic1: Basics
+Graph Size: 1171148 vertexes, 10020731 edges
+### out degree:
+50% degree:	1
+90% degree:	4
+95% degree:	22
+99% degree:	213
+99.9% degree:	480
+100% degree:	116417
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	13
+99% degree:	201
+99.9% degree:	402
+100% degree:	102246
+@time for init: 6.47741
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 171257891
+Motif2 count: 469049536
+Motif3 count: 63184167
+@time for motif counting: 967.295
+
+
+
+
+
+
+@data 2:3
+@time 1994.98
+## Statistic1: Basics
+Graph Size: 1127761 vertexes, 8905473 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	15
+99% degree:	213
+99.9% degree:	469
+100% degree:	196048
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	11
+99% degree:	201
+99.9% degree:	402
+100% degree:	65128
+@time for init: 5.53973
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 6451694167
+Motif2 count: 7810797958
+Motif3 count: 13772568
+@time for motif counting: 1988.77
+
+
+
+
+
+
+@data 2:4
+@time 915.80
+## Statistic1: Basics
+Graph Size: 1158239 vertexes, 8617821 edges
+### out degree:
+50% degree:	1
+90% degree:	4
+95% degree:	21
+99% degree:	173
+99.9% degree:	383
+100% degree:	83191
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	14
+99% degree:	201
+99.9% degree:	402
+100% degree:	105699
+@time for init: 5.61485
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 2160125142
+Motif2 count: 2096744708
+Motif3 count: 44301315
+@time for motif counting: 910.052
+
+
+
+
+
+
+@data 2:5
+@time 739.64
+## Statistic1: Basics
+Graph Size: 1150307 vertexes, 8609600 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	19
+99% degree:	187
+99.9% degree:	411
+100% degree:	129020
+### in degree:
+50% degree:	1
+90% degree:	6
+95% degree:	14
+99% degree:	201
+99.9% degree:	402
+100% degree:	121393
+@time for init: 5.52984
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 4127489323
+Motif2 count: 3839712948
+Motif3 count: 90836648
+@time for motif counting: 733.957
+
+
+
+
+
+
+@data 2:6
+@time 534.23
+## Statistic1: Basics
+Graph Size: 1125363 vertexes, 7025269 edges
+### out degree:
+50% degree:	1
+90% degree:	4
+95% degree:	20
+99% degree:	126
+99.9% degree:	357
+100% degree:	96537
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	11
+99% degree:	201
+99.9% degree:	337
+100% degree:	105496
+@time for init: 4.79028
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 1265620170
+Motif2 count: 1202362419
+Motif3 count: 128169335
+@time for motif counting: 529.303
+
+
+
+
+
+
+@data 2:7
+@time 1054.31
+## Statistic1: Basics
+Graph Size: 1223958 vertexes, 6725952 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	15
+99% degree:	113
+99.9% degree:	326
+100% degree:	99436
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	9
+99% degree:	201
+99.9% degree:	314
+100% degree:	199373
+@time for init: 4.97602
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 1372154804
+Motif2 count: 684106590
+Motif3 count: 82852946
+@time for motif counting: 1049.18
+
+
+
+
+
+
+@data 2:8
+@time 857.15
+## Statistic1: Basics
+Graph Size: 1152549 vertexes, 5584950 edges
+### out degree:
+50% degree:	1
+90% degree:	4
+95% degree:	12
+99% degree:	96
+99.9% degree:	256
+100% degree:	66042
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	8
+99% degree:	177
+99.9% degree:	231
+100% degree:	266988
+@time for init: 4.31468
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 152532451
+Motif2 count: 78024598
+Motif3 count: 89829871
+@time for motif counting: 852.691
+
+
+
+
+
+
+@data 2:9
+@time 281.54
+## Statistic1: Basics
+Graph Size: 943059 vertexes, 4182567 edges
+### out degree:
+50% degree:	1
+90% degree:	4
+95% degree:	16
+99% degree:	78
+99.9% degree:	211
+100% degree:	63454
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	8
+99% degree:	108
+99.9% degree:	225
+100% degree:	158912
+@time for init: 3.16051
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 344743
+Motif2 count: 72675
+Motif3 count: 33062412
+@time for motif counting: 278.272
+
+
+
+
+
+
+@data 2:10
+@time 279.96
+## Statistic1: Basics
+Graph Size: 967554 vertexes, 3890515 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	10
+99% degree:	67
+99.9% degree:	198
+100% degree:	68332
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	9
+99% degree:	76
+99.9% degree:	207
+100% degree:	183739
+@time for init: 3.01973
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 386366062
+Motif2 count: 81956925
+Motif3 count: 34423384
+@time for motif counting: 276.822
+
+
+
+
+
+
+@data 2:11
+@time 278.30
+## Statistic1: Basics
+Graph Size: 952987 vertexes, 4177151 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	13
+99% degree:	77
+99.9% degree:	210
+100% degree:	83351
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	10
+99% degree:	84
+99.9% degree:	205
+100% degree:	97298
+@time for init: 3.16403
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 94970016
+Motif2 count: 82490606
+Motif3 count: 118355508
+@time for motif counting: 275.034
+
+
+
+
+
+
+@data 2:12
+@time 525.54
+## Statistic1: Basics
+Graph Size: 999054 vertexes, 5896471 edges
+### out degree:
+50% degree:	2
+90% degree:	6
+95% degree:	20
+99% degree:	99
+99.9% degree:	275
+100% degree:	161512
+### in degree:
+50% degree:	1
+90% degree:	6
+95% degree:	14
+99% degree:	201
+99.9% degree:	300
+100% degree:	77539
+@time for init: 4.07179
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 333136458
+Motif2 count: 280772956
+Motif3 count: 63203467
+@time for motif counting: 521.355
+
+
+
+
+
+
+@data 2:13
+@time 521.40
+## Statistic1: Basics
+Graph Size: 1090506 vertexes, 6553414 edges
+### out degree:
+50% degree:	1
+90% degree:	6
+95% degree:	21
+99% degree:	99
+99.9% degree:	301
+100% degree:	144836
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	13
+99% degree:	201
+99.9% degree:	390
+100% degree:	148814
+@time for init: 4.3992
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 264813162
+Motif2 count: 116321980
+Motif3 count: 148738245
+@time for motif counting: 516.867
+
+
+
+
+
+
+@data 2:14
+@time 358.64
+## Statistic1: Basics
+Graph Size: 1053514 vertexes, 5580138 edges
+### out degree:
+50% degree:	2
+90% degree:	8
+95% degree:	25
+99% degree:	71
+99.9% degree:	215
+100% degree:	93722
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	12
+99% degree:	151
+99.9% degree:	306
+100% degree:	116427
+@time for init: 4.13856
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 504478119
+Motif2 count: 67553068
+Motif3 count: 149291261
+@time for motif counting: 354.232
+
+
+
+
+
+
+@data 2:15
+@time 586.88
+## Statistic1: Basics
+Graph Size: 1027735 vertexes, 4001686 edges
+### out degree:
+50% degree:	1
+90% degree:	6
+95% degree:	15
+99% degree:	49
+99.9% degree:	170
+100% degree:	99606
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	9
+99% degree:	64
+99.9% degree:	297
+100% degree:	219602
+@time for init: 3.24884
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 96528984
+Motif2 count: 54300187
+Motif3 count: 110276460
+@time for motif counting: 583.511
+
+
+
+
+
+
+@data 2:16
+@time 188.86
+## Statistic1: Basics
+Graph Size: 973479 vertexes, 3377360 edges
+### out degree:
+50% degree:	1
+90% degree:	4
+95% degree:	9
+99% degree:	44
+99.9% degree:	199
+100% degree:	72719
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	8
+99% degree:	47
+99.9% degree:	228
+100% degree:	61900
+@time for init: 2.8749
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 313745
+Motif2 count: 57258
+Motif3 count: 69480468
+@time for motif counting: 185.878
+
+
+
+
+
+
+@data 2:17
+@time 753.11
+## Statistic1: Basics
+Graph Size: 985126 vertexes, 3445794 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	8
+99% degree:	45
+99.9% degree:	202
+100% degree:	137204
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	10
+99% degree:	39
+99.9% degree:	204
+100% degree:	169179
+@time for init: 3.01089
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 419910
+Motif2 count: 133028
+Motif3 count: 29940199
+@time for motif counting: 749.968
+
+
+
+
+
+
+@data 2:18
+@time 101.62
+## Statistic1: Basics
+Graph Size: 944968 vertexes, 3414479 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	8
+99% degree:	51
+99.9% degree:	207
+100% degree:	43419
+### in degree:
+50% degree:	1
+90% degree:	3
+95% degree:	8
+99% degree:	53
+99.9% degree:	212
+100% degree:	154122
+@time for init: 2.9705
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 267010
+Motif2 count: 63524
+Motif3 count: 75573380
+@time for motif counting: 98.4915
+
+
+
+
+
+
+@data 2:19
+@time 227.23
+## Statistic1: Basics
+Graph Size: 900216 vertexes, 3619950 edges
+### out degree:
+50% degree:	2
+90% degree:	3
+95% degree:	9
+99% degree:	59
+99.9% degree:	247
+100% degree:	48311
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	9
+99% degree:	63
+99.9% degree:	400
+100% degree:	44867
+@time for init: 2.9225
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 7504459
+Motif2 count: 7684143
+Motif3 count: 77309837
+@time for motif counting: 224.199
+
+
+
+
+
+
+@data 2:20
+@time 101.75
+## Statistic1: Basics
+Graph Size: 944564 vertexes, 3592191 edges
+### out degree:
+50% degree:	2
+90% degree:	3
+95% degree:	8
+99% degree:	60
+99.9% degree:	276
+100% degree:	52260
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	8
+99% degree:	50
+99.9% degree:	362
+100% degree:	43464
+@time for init: 3.06352
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 863704
+Motif2 count: 268843
+Motif3 count: 313020579
+@time for motif counting: 98.5781
+
+
+
+
+
+
+@data 2:21
+@time 65.45
+## Statistic1: Basics
+Graph Size: 841491 vertexes, 3011718 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	9
+99% degree:	46
+99.9% degree:	205
+100% degree:	55733
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	8
+99% degree:	50
+99.9% degree:	229
+100% degree:	37224
+@time for init: 2.51746
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 1321850
+Motif2 count: 1614554
+Motif3 count: 265049911
+@time for motif counting: 62.8389
+
+
+
+
+
+
+@data 2:22
+@time 63.40
+## Statistic1: Basics
+Graph Size: 807936 vertexes, 2901184 edges
+### out degree:
+50% degree:	2
+90% degree:	3
+95% degree:	8
+99% degree:	49
+99.9% degree:	208
+100% degree:	60401
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	10
+99% degree:	46
+99.9% degree:	204
+100% degree:	33991
+@time for init: 2.43818
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 552095
+Motif2 count: 132528
+Motif3 count: 180011137
+@time for motif counting: 60.8719
+
+
+
+
+
+
+@data 2:23
+@time 42.29
+## Statistic1: Basics
+Graph Size: 870566 vertexes, 2316871 edges
+### out degree:
+50% degree:	1
+90% degree:	2
+95% degree:	6
+99% degree:	32
+99.9% degree:	119
+100% degree:	59940
+### in degree:
+50% degree:	1
+90% degree:	3
+95% degree:	6
+99% degree:	27
+99.9% degree:	201
+100% degree:	25088
+@time for init: 2.10984
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 663627
+Motif2 count: 364968
+Motif3 count: 107289245
+@time for motif counting: 40.0865
+
+
+
+
+
+
+@data 2:24
+@time 67.06
+## Statistic1: Basics
+Graph Size: 768031 vertexes, 2815236 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	7
+99% degree:	43
+99.9% degree:	282
+100% degree:	57775
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	10
+99% degree:	49
+99.9% degree:	321
+100% degree:	26076
+@time for init: 2.34034
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 1172135
+Motif2 count: 343393
+Motif3 count: 277138806
+@time for motif counting: 64.6371
+
+
+
+
+
+
+@data 2:25
+@time 63.07
+## Statistic1: Basics
+Graph Size: 778125 vertexes, 2675302 edges
+### out degree:
+50% degree:	1
+90% degree:	3
+95% degree:	8
+99% degree:	48
+99.9% degree:	200
+100% degree:	82527
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	8
+99% degree:	46
+99.9% degree:	203
+100% degree:	27476
+@time for init: 2.218
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 464386
+Motif2 count: 212119
+Motif3 count: 102905905
+@time for motif counting: 60.6789
+
+
+
+
+
+
+@data 2:26
+@time 83.37
+## Statistic1: Basics
+Graph Size: 838799 vertexes, 3001937 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	11
+99% degree:	48
+99.9% degree:	156
+100% degree:	147653
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	10
+99% degree:	46
+99.9% degree:	225
+100% degree:	31976
+@time for init: 2.47807
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 823537
+Motif2 count: 995732
+Motif3 count: 110021404
+@time for motif counting: 80.801
+
+
+
+
+
+
+@data 2:27
+@time 92.12
+## Statistic1: Basics
+Graph Size: 676258 vertexes, 2456818 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	11
+99% degree:	42
+99.9% degree:	184
+100% degree:	142314
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	11
+99% degree:	45
+99.9% degree:	205
+100% degree:	30481
+@time for init: 1.93155
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 399800
+Motif2 count: 63309
+Motif3 count: 81690130
+@time for motif counting: 90.1155
+
+
+
+
+
+
+@data 2:28
+@time 215.07
+## Statistic1: Basics
+Graph Size: 842393 vertexes, 3607698 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	13
+99% degree:	55
+99.9% degree:	276
+100% degree:	248385
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	11
+99% degree:	63
+99.9% degree:	250
+100% degree:	58495
+@time for init: 2.85643
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 680053
+Motif2 count: 109410
+Motif3 count: 167867480
+@time for motif counting: 212.116
+
+
+
+
+
+
+@data 2:29
+@time 508.56
+## Statistic1: Basics
+Graph Size: 854230 vertexes, 3709017 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	15
+99% degree:	54
+99.9% degree:	198
+100% degree:	264547
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	13
+99% degree:	59
+99.9% degree:	256
+100% degree:	80775
+@time for init: 2.90942
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 1094588
+Motif2 count: 511480
+Motif3 count: 237569585
+@time for motif counting: 505.55
+
+
+
+
+
+
+@data 2:30
+@time 49.25
+## Statistic1: Basics
+Graph Size: 714646 vertexes, 2219102 edges
+### out degree:
+50% degree:	1
+90% degree:	4
+95% degree:	9
+99% degree:	34
+99.9% degree:	143
+100% degree:	111277
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	7
+99% degree:	37
+99.9% degree:	202
+100% degree:	45196
+@time for init: 1.92724
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 949768
+Motif2 count: 2126214
+Motif3 count: 56472961
+@time for motif counting: 47.2363
+
+
+
+
+
+
+@data 3:1
+@time 31.96
+## Statistic1: Basics
+Graph Size: 737648 vertexes, 3430398 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	16
+99% degree:	81
+99.9% degree:	251
+100% degree:	19260
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	11
+99% degree:	103
+99.9% degree:	229
+100% degree:	32359
+@time for init: 2.52559
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 6472037
+Motif2 count: 6697580
+Motif3 count: 108968571
+@time for motif counting: 29.3522
+
+
+
+
+
+
+@data 3:2
+@time 29.72
+## Statistic1: Basics
+Graph Size: 693240 vertexes, 3255877 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	16
+99% degree:	84
+99.9% degree:	202
+100% degree:	26594
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	11
+99% degree:	103
+99.9% degree:	214
+100% degree:	30765
+@time for init: 2.34566
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 614545811
+Motif2 count: 506496409
+Motif3 count: 20686143
+@time for motif counting: 27.3002
+
+
+
+
+
+
+@data 3:3
+@time 27.50
+## Statistic1: Basics
+Graph Size: 705034 vertexes, 3440055 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	16
+99% degree:	88
+99.9% degree:	211
+100% degree:	20408
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	10
+99% degree:	105
+99.9% degree:	255
+100% degree:	30948
+@time for init: 2.45664
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 186329640
+Motif2 count: 432248960
+Motif3 count: 25707765
+@time for motif counting: 24.9665
+
+
+
+
+
+
+@data 3:4
+@time 18.38
+## Statistic1: Basics
+Graph Size: 689207 vertexes, 3519766 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	19
+99% degree:	101
+99.9% degree:	216
+100% degree:	21839
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	10
+99% degree:	106
+99.9% degree:	300
+100% degree:	31152
+@time for init: 2.45466
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 31306384
+Motif2 count: 91514954
+Motif3 count: 31601305
+@time for motif counting: 15.8484
+
+
+
+
+
+
+@data 3:5
+@time 33.09
+## Statistic1: Basics
+Graph Size: 821915 vertexes, 4141745 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	17
+99% degree:	98
+99.9% degree:	251
+100% degree:	27785
+### in degree:
+50% degree:	1
+90% degree:	6
+95% degree:	13
+99% degree:	110
+99.9% degree:	252
+100% degree:	31440
+@time for init: 2.96464
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 5256073
+Motif2 count: 5164521
+Motif3 count: 65215264
+@time for motif counting: 30.0399
+
+
+
+
+
+
+@data 3:6
+@time 15.10
+## Statistic1: Basics
+Graph Size: 688841 vertexes, 3139072 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	14
+99% degree:	89
+99.9% degree:	202
+100% degree:	16052
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	11
+99% degree:	103
+99.9% degree:	216
+100% degree:	26571
+@time for init: 2.30508
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 2635325
+Motif2 count: 2338164
+Motif3 count: 43598662
+@time for motif counting: 12.7143
+
+
+
+
+
+
+@data 3:7
+@time 64.47
+## Statistic1: Basics
+Graph Size: 860809 vertexes, 4228842 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	12
+99% degree:	103
+99.9% degree:	252
+100% degree:	20019
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	10
+99% degree:	111
+99.9% degree:	289
+100% degree:	25270
+@time for init: 3.15194
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 3625997126
+Motif2 count: 2440318895
+Motif3 count: 56874104
+@time for motif counting: 61.2217
+
+
+
+
+
+
+@data 3:8
+@time 25.63
+## Statistic1: Basics
+Graph Size: 728841 vertexes, 3644625 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	17
+99% degree:	92
+99.9% degree:	220
+100% degree:	30183
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	11
+99% degree:	107
+99.9% degree:	289
+100% degree:	32291
+@time for init: 2.61302
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 5667030
+Motif2 count: 5572812
+Motif3 count: 77012609
+@time for motif counting: 22.9375
+
+
+
+
+
+
+@data 3:9
+@time 22.10
+## Statistic1: Basics
+Graph Size: 713724 vertexes, 3153208 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	12
+99% degree:	79
+99.9% degree:	219
+100% degree:	21852
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	10
+99% degree:	101
+99.9% degree:	221
+100% degree:	25543
+@time for init: 2.37831
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 125571957
+Motif2 count: 204704382
+Motif3 count: 39096797
+@time for motif counting: 19.641
+
+
+
+
+
+
+@data 3:10
+@time 15.43
+## Statistic1: Basics
+Graph Size: 617436 vertexes, 2941001 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	12
+99% degree:	103
+99.9% degree:	234
+100% degree:	16314
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	9
+99% degree:	104
+99.9% degree:	278
+100% degree:	25128
+@time for init: 2.09528
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 28842790
+Motif2 count: 59375484
+Motif3 count: 17801216
+@time for motif counting: 13.2602
+
+
+
+
+
+
+@data 3:11
+@time 38.74
+## Statistic1: Basics
+Graph Size: 633957 vertexes, 4336743 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	22
+99% degree:	151
+99.9% degree:	302
+100% degree:	26571
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	10
+99% degree:	180
+99.9% degree:	385
+100% degree:	30805
+@time for init: 2.69534
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 4547610
+Motif2 count: 4415900
+Motif3 count: 35163897
+@time for motif counting: 35.974
+
+
+
+
+
+
+@data 3:12
+@time 13.12
+## Statistic1: Basics
+Graph Size: 529969 vertexes, 3376190 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	23
+99% degree:	131
+99.9% degree:	272
+100% degree:	33176
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	10
+99% degree:	176
+99.9% degree:	356
+100% degree:	28873
+@time for init: 2.0659
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 160339
+Motif2 count: 131276
+Motif3 count: 20198493
+@time for motif counting: 10.9985
+
+
+
+
+
+
+@data 3:13
+@time 33.83
+## Statistic1: Basics
+Graph Size: 843509 vertexes, 4235897 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	11
+99% degree:	125
+99.9% degree:	267
+100% degree:	59607
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	9
+99% degree:	176
+99.9% degree:	354
+100% degree:	27846
+@time for init: 3.0134
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 3133367
+Motif2 count: 2338834
+Motif3 count: 29009044
+@time for motif counting: 30.7257
+
+
+
+
+
+
+@data 3:14
+@time 22.25
+## Statistic1: Basics
+Graph Size: 548822 vertexes, 2694917 edges
+### out degree:
+50% degree:	2
+90% degree:	6
+95% degree:	18
+99% degree:	78
+99.9% degree:	181
+100% degree:	12742
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	9
+99% degree:	176
+99.9% degree:	277
+100% degree:	36193
+@time for init: 1.84765
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 1525799005
+Motif2 count: 747352300
+Motif3 count: 20073738
+@time for motif counting: 20.339
+
+
+
+
+
+
+@data 3:15
+@time 13.29
+## Statistic1: Basics
+Graph Size: 578199 vertexes, 2434838 edges
+### out degree:
+50% degree:	1
+90% degree:	4
+95% degree:	12
+99% degree:	70
+99.9% degree:	222
+100% degree:	12604
+### in degree:
+50% degree:	1
+90% degree:	6
+95% degree:	13
+99% degree:	101
+99.9% degree:	202
+100% degree:	22513
+@time for init: 1.72981
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 2461544
+Motif2 count: 2326994
+Motif3 count: 39784645
+@time for motif counting: 11.5066
+
+
+
+
+
+
+@data 3:16
+@time 8.65
+## Statistic1: Basics
+Graph Size: 618614 vertexes, 2376129 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	11
+99% degree:	64
+99.9% degree:	201
+100% degree:	37255
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	10
+99% degree:	101
+99.9% degree:	202
+100% degree:	23228
+@time for init: 1.80962
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 1222908
+Motif2 count: 960577
+Motif3 count: 19489403
+@time for motif counting: 6.77285
+
+
+
+
+
+
+@data 3:17
+@time 63.54
+## Statistic1: Basics
+Graph Size: 749623 vertexes, 2888669 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	9
+99% degree:	61
+99.9% degree:	186
+100% degree:	32974
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	9
+99% degree:	101
+99.9% degree:	222
+100% degree:	25019
+@time for init: 2.29948
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 4088728022
+Motif2 count: 6066672473
+Motif3 count: 13025707
+@time for motif counting: 61.1525
+
+
+
+
+
+
+@data 3:18
+@time 16.99
+## Statistic1: Basics
+Graph Size: 654525 vertexes, 2882138 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	14
+99% degree:	78
+99.9% degree:	188
+100% degree:	12656
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	11
+99% degree:	101
+99.9% degree:	203
+100% degree:	26715
+@time for init: 2.12479
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 6146210
+Motif2 count: 6051088
+Motif3 count: 27707809
+@time for motif counting: 14.7928
+
+
+
+
+
+
+@data 3:19
+@time 68.62
+## Statistic1: Basics
+Graph Size: 795708 vertexes, 3516585 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	14
+99% degree:	81
+99.9% degree:	203
+100% degree:	12969
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	11
+99% degree:	101
+99.9% degree:	202
+100% degree:	32216
+@time for init: 2.63855
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 3075618722
+Motif2 count: 3135572401
+Motif3 count: 33201455
+@time for motif counting: 65.8943
+
+
+
+
+
+
+@data 3:20
+@time 34.70
+## Statistic1: Basics
+Graph Size: 799683 vertexes, 3441867 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	15
+99% degree:	74
+99.9% degree:	180
+100% degree:	15162
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	10
+99% degree:	101
+99.9% degree:	206
+100% degree:	31410
+@time for init: 2.6382
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 682284079
+Motif2 count: 1100241923
+Motif3 count: 27195454
+@time for motif counting: 31.9736
+
+
+
+
+
+
+@data 3:21
+@time 99.28
+## Statistic1: Basics
+Graph Size: 797060 vertexes, 3537838 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	14
+99% degree:	82
+99.9% degree:	202
+100% degree:	16198
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	10
+99% degree:	101
+99.9% degree:	237
+100% degree:	31938
+@time for init: 2.67628
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 4532790918
+Motif2 count: 1686722338
+Motif3 count: 30327699
+@time for motif counting: 96.5189
+
+
+
+
+
+
+@data 3:22
+@time 481.20
+## Statistic1: Basics
+Graph Size: 782808 vertexes, 3883786 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	16
+99% degree:	87
+99.9% degree:	375
+100% degree:	24682
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	11
+99% degree:	103
+99.9% degree:	238
+100% degree:	168099
+@time for init: 2.78208
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 759010084
+Motif2 count: 774739697
+Motif3 count: 68056304
+@time for motif counting: 478.33
+
+
+
+
+
+
+@data 3:23
+@time 63.06
+## Statistic1: Basics
+Graph Size: 694961 vertexes, 3499947 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	16
+99% degree:	80
+99.9% degree:	276
+100% degree:	22432
+### in degree:
+50% degree:	1
+90% degree:	7
+95% degree:	14
+99% degree:	104
+99.9% degree:	228
+100% degree:	32182
+@time for init: 2.44715
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 2453915851
+Motif2 count: 493737952
+Motif3 count: 28293425
+@time for motif counting: 60.4287
+
+
+
+
+
+
+@data 3:24
+@time 18.86
+## Statistic1: Basics
+Graph Size: 586944 vertexes, 2437280 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	13
+99% degree:	68
+99.9% degree:	182
+100% degree:	19250
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	9
+99% degree:	101
+99.9% degree:	248
+100% degree:	26003
+@time for init: 1.8158
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 147235041
+Motif2 count: 403181389
+Motif3 count: 17302729
+@time for motif counting: 16.9796
+
+
+
+
+
+
+@data 3:25
+@time 118.95
+## Statistic1: Basics
+Graph Size: 752533 vertexes, 3555246 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	15
+99% degree:	90
+99.9% degree:	223
+100% degree:	18509
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	11
+99% degree:	101
+99.9% degree:	236
+100% degree:	26533
+@time for init: 2.59873
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 3598632903
+Motif2 count: 3592807735
+Motif3 count: 33000885
+@time for motif counting: 116.104
+
+
+
+
+
+
+@data 3:26
+@time 50.09
+## Statistic1: Basics
+Graph Size: 784392 vertexes, 3613256 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	16
+99% degree:	77
+99.9% degree:	201
+100% degree:	30672
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	11
+99% degree:	105
+99.9% degree:	236
+100% degree:	32253
+@time for init: 2.64636
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 4624202874
+Motif2 count: 7128313
+Motif3 count: 36536216
+@time for motif counting: 47.2485
+
+
+
+
+
+
+@data 3:27
+@time 42.78
+## Statistic1: Basics
+Graph Size: 776383 vertexes, 3542215 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	16
+99% degree:	78
+99.9% degree:	187
+100% degree:	49132
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	12
+99% degree:	102
+99.9% degree:	231
+100% degree:	31960
+@time for init: 2.63881
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 369539967
+Motif2 count: 744340370
+Motif3 count: 40724295
+@time for motif counting: 40.0341
+
+
+
+
+
+
+@data 3:28
+@time 18.14
+## Statistic1: Basics
+Graph Size: 768365 vertexes, 3256924 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	14
+99% degree:	73
+99.9% degree:	169
+100% degree:	37444
+### in degree:
+50% degree:	1
+90% degree:	4
+95% degree:	10
+99% degree:	101
+99.9% degree:	220
+100% degree:	31020
+@time for init: 2.46189
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 2196285
+Motif2 count: 2138995
+Motif3 count: 28192275
+@time for motif counting: 15.5327
+
+
+
+
+
+
+@data 3:29
+@time 106.29
+## Statistic1: Basics
+Graph Size: 825461 vertexes, 4046524 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	17
+99% degree:	82
+99.9% degree:	248
+100% degree:	28341
+### in degree:
+50% degree:	1
+90% degree:	5
+95% degree:	12
+99% degree:	102
+99.9% degree:	304
+100% degree:	32646
+@time for init: 2.95078
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 8579088950
+Motif2 count: 2628158886
+Motif3 count: 65841721
+@time for motif counting: 103.252
+
+
+
+
+
+
+@data 3:30
+@time 16.15
+## Statistic1: Basics
+Graph Size: 626957 vertexes, 2621826 edges
+### out degree:
+50% degree:	2
+90% degree:	4
+95% degree:	15
+99% degree:	62
+99.9% degree:	186
+100% degree:	17808
+### in degree:
+50% degree:	1
+90% degree:	3
+95% degree:	8
+99% degree:	101
+99.9% degree:	275
+100% degree:	31431
+@time for init: 1.92571
+
+## Statistic2: 3 cycle motifs
+Motif1 count: 1236874
+Motif2 count: 1157200
+Motif3 count: 13915593
+@time for motif counting: 14.1547
+
+
+
+
+
+
